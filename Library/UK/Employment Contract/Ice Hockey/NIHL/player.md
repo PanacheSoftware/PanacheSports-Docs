@@ -185,7 +185,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 <br>
 <a id="clause6"></a>
 
-6. EQUIPMENT**
+6. **EQUIPMENT**
 
 | *The Club may make certain equipment available to you. We expect you to look after this equipment like it was Your own and to return it to the Club in good condition.* |
 | :--- |
