@@ -7,7 +7,7 @@
 <br>
 
 | *This is an employment contract, not a contract to appoint a worker. This means the Club (as it is defined below) is Your employer and You are an employee of the Club. We both have obligations toward each other. Those obligations are set out in this contract.*|
-|-|
+| :--- |
 
 **Summary Page**
 
@@ -16,12 +16,12 @@ This is a summary of the main terms of Your employment contract. This summary is
 If there is a conflict between this summary and the main terms below, the main terms will prevail.
 
 | Summary | |   | Where to find out more |
-| --- | --- | --- | --- |
-| ![Salary](https://panachesportsdocstore.blob.core.windows.net/images/Icons/money-bill-1-wave.svg) | Salary | The Club will pay You £<mark>[amount]</mark> each fortnight before deductions like tax and national insurance <mark>[for the [year from and to] Season and a salary revised in accordance with the Appendix attached for the [year from and to] Season]</mark>. | [Clause 5.1](#clause5) |
-| ![Term](https://panachesportsdocstore.blob.core.windows.net/images/Icons/calendar-days.svg) | Term | The contract will last for the <mark>[year from and to]</mark> Season <mark>[and the year from and to Season]</mark>. | [Clause 2](#clause2) |
+| :--- | :--- | :--- | :--- |
+| ![Salary](https://panachesportsdocstore.blob.core.windows.net/images/Icons/money-bill-1-wave.svg) | Salary | The Club will pay You £`[amount]` each fortnight before deductions like tax and national insurance `[for the [year from and to] Season and a salary revised in accordance with the Appendix attached for the [year from and to] Season]`. | [Clause 5.1](#clause5) |
+| ![Term](https://panachesportsdocstore.blob.core.windows.net/images/Icons/calendar-days.svg) | Term | The contract will last for the `[year from and to]` Season `[and the year from and to Season]`. | [Clause 2](#clause2) |
 | ![Termination](https://panachesportsdocstore.blob.core.windows.net/images/Icons/ban.svg) | Termination | The contract can be terminated early in certain circumstances. | [Clause 12](#clause12) |
 | ![Hours of work](https://panachesportsdocstore.blob.core.windows.net/images/Icons/clock.svg) | Hours of work | Due to the nature this employment contract as a sports person, You need to work an irregular number of hours each week. | [Clause 9](#clause9) |
-| ![Place of work](https://panachesportsdocstore.blob.core.windows.net/images/Icons/location-dot.svg) | Place of work | You need to turn up for work at <mark>[place of work]</mark> and any away fixtures notified to You. | [Clause 3](#clause3) |
+| ![Place of work](https://panachesportsdocstore.blob.core.windows.net/images/Icons/location-dot.svg) | Place of work | You need to turn up for work at `[place of work]` and any away fixtures notified to You. | [Clause 3](#clause3) |
 | ![Sickness](https://panachesportsdocstore.blob.core.windows.net/images/Icons/face-thermometer.svg) | Sickness | Subject to certain conditions, the Club will pay You up to 6 weeks of Your Salary if you are ill, injured or otherwise incapacitated. | [Clause 10](#clause10) |
 
 ***
@@ -30,9 +30,9 @@ This contract is made between the Parties (as they are defined below) on the dat
 
 **Parties**
 
-(1)	<mark>[Organisation Name]</mark> (Company Number <mark>[Number]</mark>) whose registered office is at <mark>[Registered address]</mark> (the Club)
+(1)	`[Organisation Name]` (Company Number `[Number]`) whose registered office is at `[Registered address]` (the Club)
 
-(2)	<mark>[Player First Name]</mark> <mark>[Player Surname Name]</mark> of <mark>[Player Address]</mark> (You)
+(2)	`[Player First Name]` `[Player Surname Name]` of `[Player Address]` (You)
 
 <br>
 <a id="definitions"></a>
@@ -40,7 +40,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 1. **DEFINITIONS**
 
 | *This contract contains words that have meanings set out below.  Where you see these words throughout this contract, please refer back to this clause. Definitions in the middle of a sentence start with a capital letter.* |
-|-|
+| :--- |
 
 **Club Rules and Policies** means the document named as such and sent to you with the Offer or any updated version of that document sent by the Club to You from time to time.
 
@@ -76,11 +76,11 @@ This contract is made between the Parties (as they are defined below) on the dat
 2. **TERM OF CONTRACT**
 
 | *This is how long the contract will last. There is a clause called “Termination” that allows either the Club or You to end this contract early.* |
-| - |
+| :--- |
 
 2.1. Subject to clause 12 (Termination), this contract applies during the Term.
 
-2.2. <mark>[The terms of clause 1 (definitions), this clause 2 (term of contract), and clause 12 (termination) apply from the date this contract is completed. All other terms of this contract apply only from the date on which the Club confirms its diligence contained in the Offer is complete or waived by the Club.]</mark>
+2.2. `[The terms of clause 1 (definitions), this clause 2 (term of contract), and clause 12 (termination) apply from the date this contract is completed. All other terms of this contract apply only from the date on which the Club confirms its diligence contained in the Offer is complete or waived by the Club.]`
 
 <br>
 <a id="clause3"></a>
@@ -88,7 +88,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 3. **PLACE OF WORK**
 
 | *This is where the Club requires you to work. Some travel is required.* |
-| - |
+| :--- |
 
 3.1. Your place of work is the ice rink at which the Club trains and plays its home matches from time to time. Travel to away games will be required as part of the role.
 
@@ -104,7 +104,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 4. **YOUR OBLIGATIONS & WARRANTIES**
 
 | *This is what the Club expects from you. If you do not fulfil these obligations, or if the warranties are untrue, the Club may take disciplinary action against you or potentially terminate Your employment.* |
-| - |
+| :--- |
 
 4.1. You represent and warrant that you have:
 
@@ -142,7 +142,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 5. **CLUB OBLIGATIONS**
 
 | *This is what you can expect from the Club.  If the Club does not fulfil its obligations You may be entitled to take action against the Club or potentially terminate Your employment.* |
-| - |
+| :--- |
 
 5.1. The Club will pay You the Salary divided into equal fortnightly instalments on the first and third working Monday subject to any necessary deductions including but not limited to tax and National Insurance, and subject to appropriate adjustments for part-weeks worked.
 
@@ -170,7 +170,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 
 5.8. If any deduction set out in clause 5.7 would result in Your Salary being beneath any legal minimum wage, You agree to repay such sums to the Club as quickly as possible.
 
-5.9. To the extent You have paid any Set Up Costs <mark>[and a one-off cost of skates up to a maximum of £[amount]]</mark> and provide the Club with evidence of such expenditure, the Club will reimburse such expenses.
+5.9. To the extent You have paid any Set Up Costs `[and a one-off cost of skates up to a maximum of £[amount]]` and provide the Club with evidence of such expenditure, the Club will reimburse such expenses.
 
 5.10. The Club will not discriminate between players without an objective reason.
 
@@ -180,7 +180,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 
 5.13. The Club will use reasonable endeavours (but is not obliged) to provide and assist with training and matches, and help to source sponsors, sponsorship discounts, nutritionists, mental wellbeing coaches, physiotherapists, and masseurs. The Club is under no obligation to pay for such services.
 
-5.14. <mark>[The Club will arrange and pay up to a maximum of £[amount] for an economy class, [one way / return] flight to [city] at a time and date that is agreeable to You and the Club.]</mark>
+5.14. `[The Club will arrange and pay up to a maximum of £[amount] for an economy class, [one way / return] flight to [city] at a time and date that is agreeable to You and the Club.]`
 
 <br>
 <a id="clause6"></a>
@@ -188,7 +188,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 6. EQUIPMENT**
 
 | *The Club may make certain equipment available to you. We expect you to look after this equipment like it was Your own and to return it to the Club in good condition.* |
-| - |
+| :--- |
 
 6.1. The Club shall provide:
 
@@ -206,7 +206,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 7. **PR AND ADVERTISING**
 
 | *The Club needs to promote itself within the community with both live events and through its social media channels. You are expected to take part in those promotions.* |
-| - |
+| :--- |
 
 7.1. You must promote the Club by attending any PR activities such as advertising events.
 
@@ -224,7 +224,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 8. **MATCH-FIXING AND DOPING**
 
 | *The Club expects the highest standard of professionalism from its players and has a zero tolerance policy toward match fixing and the use of illegal performance enhancing substances. Breaching these rules can result in immediate dismissal.* |
-| - |
+| :--- |
 
 8.1. It is Your responsibility to know, to comply with, and not violate any of, the match-fixing rules and/or anti-doping regulations imposed by EIHA or any other relevant governing organisation or by law. Any such violations are deemed to be a material breach of this contract and may result in Your immediate suspension and/or termination.
 
@@ -236,7 +236,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 9. **WEEKLY HOURS**
 
 | *This is the minimum expected amount of commitment from you.* |
-| - |
+| :--- |
 
 9.1. The nature of Your employment in the Position means Your hours will vary depending on training times and ice rink availability and matches may be played on weekends and consecutive days.
 
@@ -250,7 +250,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 10.	**ILLNESS AND INJURIES**
 
 | *This clause confirms what happens if that you get sick or injured while you are an employee of the Club.* |
-| - |
+| :--- |
 
 10.1. Subject to clauses 10.3 (medical exemption), 10.4 (submission of insurance claims), and 10.5 (evidence of claims) below You are eligible for up to six (6) weeks of occupational sick pay at 100% of Your Salary.
 
@@ -280,7 +280,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 11.	**TRANSFERS**
 
 | *Transfers to other clubs during the season are not allowed. Occasionally the club will consent to a transfer if certain conditions are met. This clause contains those conditions which includes payments and financial compensation.* |
-| - |
+| :--- |
 
 11.1. You are not permitted to play for, or transfer to, any other club during the Term without the Club’s consent.
 
@@ -294,7 +294,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 
 &nbsp;&nbsp;&nbsp;a) that You or the Transfer Club reimburse the Club’s Set Up Costs;
 
-&nbsp;&nbsp;&nbsp;b) payment of a transfer fee of £<mark>[amount]</mark> plus VAT to the Club;
+&nbsp;&nbsp;&nbsp;b) payment of a transfer fee of £`[amount]` plus VAT to the Club;
 
 &nbsp;&nbsp;&nbsp;c) that You cannot play against the Club during the Season in which You were transferred;
 
@@ -310,7 +310,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 12.	**TERMINATION**
 
 | *This clause contains the reasons that either the Club or You can bring this contract to an end before the end of the Season.* |
-| - |
+| :--- |
 
 12.1. The Club can terminate this contract on two (2) weeks’ notice:
 
@@ -350,9 +350,9 @@ This contract is made between the Parties (as they are defined below) on the dat
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. poor treatment of team mates, colleagues, or spectators;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark>vii.</mark> offensive or inappropriate communications or use of social media; <mark>[or</mark>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`vii.` offensive or inappropriate communications or use of social media; `[or`
 
-&nbsp;&nbsp;&nbsp;<mark>h) the Club is does not receive or expect to receive satisfactory replies to the diligence contained in the Offer or is unwilling to waive any such diligence or part of it.]</mark>
+&nbsp;&nbsp;&nbsp;`h) the Club is does not receive or expect to receive satisfactory replies to the diligence contained in the Offer or is unwilling to waive any such diligence or part of it.]`
 
 12.3. If the Club terminates this contract under clause 12.1, the Club is entitled to seek damages for any losses suffered.
 
@@ -378,7 +378,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 13.	**INCORPORATED TERMS**
 
 | *This clause brings other obligations into this contract. You should make sure you have read everything that is referred to below and ask for help if you cannot locate it.* |
-| - |
+| :--- |
 
 13.1. The replies You gave to the enquiries raised by the Club in the Offer constitute representations and You warrant that those replies remain accurate.
 
@@ -394,7 +394,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 14.	**PERSONAL**
 
 | *This contract is between only You and the Club. No-one else can benefit from it.* |
-| - |
+| :--- |
 
 14.1. Neither You nor the Club can assign, novate, charge, sub-licence or otherwise dispose of, or grant rights over this contract.
 
@@ -404,13 +404,13 @@ This contract is made between the Parties (as they are defined below) on the dat
 15.	**NOTICE**
 
 | *If either of us want to give notice to the other, this clause says how to do that.* |
-| - |
+| :--- |
 
 15.1. Notices sent by text message, WhatsApp, Messenger, or any other similar instant messaging service, or given verbally, are not validly given.
 
-15.2. Notices to the Club are only valid if they are sent by email to <mark>[club email]</mark>.
+15.2. Notices to the Club are only valid if they are sent by email to `[club email]`.
 
-15.3. Notices to You are only valid if they are sent by email to <mark>[Player Email]</mark>. Where an email to Your email address fails to deliver the Club can (but it not obliged to) deliver written notice to you by hand which will constitute valid notice. 
+15.3. Notices to You are only valid if they are sent by email to `[Player Email]`. Where an email to Your email address fails to deliver the Club can (but it not obliged to) deliver written notice to you by hand which will constitute valid notice. 
 
 15.4. Notices are deemed served at the time they are sent to the correct address.
 
@@ -420,7 +420,7 @@ This contract is made between the Parties (as they are defined below) on the dat
 16.	**GOVERNING LAW & ENFORCEMENT**
 
 | *This clause means no courts outside of England has any influence over this contract, even if you are not from England.* |
-| - |
+| :--- |
 
 16.1. This contract is governed by English law and the English courts shall have exclusive jurisdiction over it and any disputes arising out of it.
 
@@ -472,18 +472,18 @@ Date
 
 **Appendix**
 
-Your Salary will be revised in the <mark>[year from and to]</mark> Season based on Your performance in the competitive games only in the <mark>[year from and to]</mark> Season, as set out in the table below, and provided:
+Your Salary will be revised in the `[year from and to]` Season based on Your performance in the competitive games only in the `[year from and to]` Season, as set out in the table below, and provided:
 
-1. You are not in breach and have not breached the terms of this contract during the <mark>[year from and to]</mark> Season; and
-2. You have played at least 80% of the competitive games in the <mark>[year from and to]</mark> Season.
+1. You are not in breach and have not breached the terms of this contract during the `[year from and to]` Season; and
+2. You have played at least 80% of the competitive games in the `[year from and to]` Season.
 
 Note, competitive games do not include pre-Season friendly or challenge games.
 
-| <mark>[year from and to]</mark> Base Salary (gross £ per fortnight) | <mark>[year from and to]</mark> Performance |
-| - | - |
-| <mark>[amount]</mark> | No requirements |
-| <mark>[amount]</mark> | If You scored 40 points or more |
-| <mark>[amount]</mark> | If You scored 40 points or more **AND** You had a Plus/Minus rating of 5 or more |
-| <mark>[amount]</mark> | If You scored 50 points or more **AND** You had a Plus/Minus rating of 10 or more |
-| <mark>[amount]</mark> | If You scored 60 points or more **AND** You had a Plus/Minus rating of 10 or more |
+| `[year from and to]` Base Salary (gross £ per fortnight) | `[year from and to]` Performance |
+| :--- | :--- |
+| `[amount]` | No requirements |
+| `[amount]` | If You scored 40 points or more |
+| `[amount]` | If You scored 40 points or more **AND** You had a Plus/Minus rating of 5 or more |
+| `[amount]` | If You scored 50 points or more **AND** You had a Plus/Minus rating of 10 or more |
+| `[amount]` | If You scored 60 points or more **AND** You had a Plus/Minus rating of 10 or more |
 
