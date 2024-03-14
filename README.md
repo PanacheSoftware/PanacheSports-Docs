@@ -8,8 +8,18 @@ These documents are licenced under the [CC0 Public Domain](https://creativecommo
 ## Library
 
 - UK
-    * Employment Contract
+    * Employment Contract       
         + [Ice Hockey > NIHL > Player Contract](Library/UK/Employment%20Contract/Ice%20Hockey/NIHL/player.md)
+    * Generic
+        + [Ice Hockey > Generic > Sponsorship Agreement (Fixed Term)](Library/UK/Employment%20Contract/Ice%20Hockey/Generic/SponsorshipAgreementFixedTerm.md)
+        + [Ice Hockey > Generic > Waiver of Liability](Library/UK/Employment%20Contract/Ice%20Hockey/Generic/WaiverofLiability.md)
+    * Letters
+        + [Ice Hockey > Letters > Offer](Library/UK/Employment%20Contract/Ice%20Hockey/Letters/Offer.md)
+        + [Ice Hockey > Letters > Reference](Library/UK/Employment%20Contract/Ice%20Hockey/Letters/Reference.md)
+    * Rules and Policies
+        + [Rules and Policies > Disciplinaries](Library/UK/Employment%20Contract/Generic/Rules%20and%20Policies/Disciplinaries.md)
+        + [Rules and Policies > Grievances](Library/UK/Employment%20Contract/Generic/Rules%20and%20Policies/Grievances.md)
+    
 
 ## Get involved
 
