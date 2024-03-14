@@ -1,4 +1,4 @@
-![Panache Sports Logo](https://panachesportsdocstore.blob.core.windows.net/images/PanacheSports/PS-BLUE-Small.png)
+![Panache Sports Logo](https://panachesportsdocstore.blob.core.windows.net/images/PanacheSports/PS-Long-BLUE-Small.png)
 
 ### Employment Contract 
 ### Ice Hockey Player
@@ -78,9 +78,9 @@ This contract is made between the Parties (as they are defined below) on the dat
 | *This is how long the contract will last. There is a clause called “Termination” that allows either the Club or You to end this contract early.* |
 | :--- |
 
-2.1. Subject to clause 12 (Termination), this contract applies during the Term.
+2.1. Subject to [clause 12](#clause12) (Termination), this contract applies during the Term.
 
-2.2. `[The terms of clause 1 (definitions), this clause 2 (term of contract), and clause 12 (termination) apply from the date this contract is completed. All other terms of this contract apply only from the date on which the Club confirms its diligence contained in the Offer is complete or waived by the Club.]`
+2.2. `[The terms of `[clause 1](#definitions)` (definitions), this `[clause 2](#clause2)` (term of contract), and `[clause 12](#clause12)` (termination) apply from the date this contract is completed. All other terms of this contract apply only from the date on which the Club confirms its diligence contained in the Offer is complete or waived by the Club.]`
 
 <br>
 <a id="clause3"></a>
